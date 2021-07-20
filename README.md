@@ -23,11 +23,11 @@
 
 # Udacity starter website
 
-[![Contributors][contributors-shield]][contributors-url]
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- TABLE OF CONTENTS -->
@@ -57,11 +57,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This project was deployed as a static website to AWS using S3, CloudFront, and IAM.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+The files included are: 
+
+index.html - The Index document for the website.
+/img - The background image file for the website.
+/vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
+/css - CSS files for the website.
 
 ### Built With
 
@@ -95,9 +98,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/skeith696) - email
+Ssewannonda Keith Edwin - [@skeith696](https://twitter.com/skeith696) - skeith696@gmail.com
 
-Project Link: [https://github.com/edcsu/udacity-starter-website](https://github.com/edcsu/udacity-starter-website)
+Project Link: [udacity starter website](https://github.com/edcsu/udacity-starter-website)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
